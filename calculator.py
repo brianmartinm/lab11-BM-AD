@@ -1,3 +1,6 @@
+# https://github.com/brianmartinm/lab11-BM-AD
+# Partner 1: Brian Martin
+# Partner 2: Aidan Davis
 """
 calculator.py
 - Defines functions used to create a simple calculator
